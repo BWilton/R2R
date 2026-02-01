@@ -1,0 +1,340 @@
+[
+    {
+        "date": "1/10/2025",
+        "type": "scheduled_run",
+        "meet_time": "6:15 AM",
+        "start_time": "6:30 AM",
+        "title": "Morning 5K Run & 3K Walk",
+        "location": "Behind Seashore Cabaret at 160 The Esplanade, Petone, Lower Hutt.",
+        "description": "Stay active with our welcoming Morning 5K Run & 3K Walk. All fitness levels welcome!",
+        "icon": "calendar-icon-r2r.png",
+        "icon_alt": "Reddy to Run logo"
+    },
+    {
+        "date": "6/10/2025",
+        "type": "scheduled_run",
+        "meet_time": "6:15 AM",
+        "start_time": "6:30 AM",
+        "title": "Morning 5K Run & 3K Walk",
+        "location": "Behind Seashore Cabaret at 160 The Esplanade, Petone, Lower Hutt.",
+        "description": "Stay active with our welcoming Morning 5K Run & 3K Walk. All fitness levels welcome!",
+        "icon": "calendar-icon-r2r.png",
+        "icon_alt": "Reddy to Run logo"
+    },
+    {
+        "date": "8/10/2025",
+        "type": "scheduled_run",
+        "meet_time": "6:15 AM",
+        "start_time": "6:30 AM",
+        "title": "Morning 5K Run & 3K Walk",
+        "location": "Behind Seashore Cabaret at 160 The Esplanade, Petone, Lower Hutt.",
+        "description": "Stay active with our welcoming Morning 5K Run & 3K Walk. All fitness levels welcome!",
+        "icon": "calendar-icon-r2r.png",
+        "icon_alt": "Reddy to Run logo"
+    },
+    {
+        "date": "9/10/2025",
+        "type": "scheduled_run",
+        "meet_time": "6:00 PM",
+        "start_time": "6:15 PM",
+        "title": "Thursday Trot - 5K Run & 3K Walk",
+        "location": "Behind Seashore Cabaret at 160 The Esplanade, Petone, Lower Hutt.",
+        "description": "Stay active with our welcoming Thursday Trot 5K Run & 3K Walk. All fitness levels welcome!",
+        "icon": "calendar-icon-r2r.png",
+        "icon_alt": "Reddy to Run logo"
+    },
+    {
+        "date": "10/10/2025",
+        "type": "scheduled_run",
+        "meet_time": "6:15 AM",
+        "start_time": "6:30 AM",
+        "title": "Morning 5K Run & 3K Walk",
+        "location": "Behind Seashore Cabaret at 160 The Esplanade, Petone, Lower Hutt.",
+        "description": "Stay active with our welcoming Morning 5K Run & 3K Walk. All fitness levels welcome!",
+        "icon": "calendar-icon-r2r.png",
+        "icon_alt": "Reddy to Run logo"
+    },
+    {
+        "date": "13/10/2025",
+        "type": "scheduled_run",
+        "meet_time": "6:15 AM",
+        "start_time": "6:30 AM",
+        "title": "Morning 5K Run & 3K Walk",
+        "location": "Behind Seashore Cabaret at 160 The Esplanade, Petone, Lower Hutt.",
+        "description": "Stay active with our welcoming Morning 5K Run & 3K Walk. All fitness levels welcome!",
+        "icon": "calendar-icon-r2r.png",
+        "icon_alt": "Reddy to Run logo"
+    },
+    {
+        "date": "15/10/2025",
+        "type": "scheduled_run",
+        "meet_time": "6:15 AM",
+        "start_time": "6:30 AM",
+        "title": "Morning 5K Run & 3K Walk",
+        "location": "Behind Seashore Cabaret at 160 The Esplanade, Petone, Lower Hutt.",
+        "description": "Stay active with our welcoming Morning 5K Run & 3K Walk. All fitness levels welcome!",
+        "icon": "calendar-icon-r2r.png",
+        "icon_alt": "Reddy to Run logo"
+    },
+    {
+        "date": "20/10/2025",
+        "type": "scheduled_run",
+        "meet_time": "6:15 AM",
+        "start_time": "6:30 AM",
+        "title": "Morning 5K Run & 3K Walk",
+        "location": "Behind Seashore Cabaret at 160 The Esplanade, Petone, Lower Hutt.",
+        "description": "Stay active with our welcoming Morning 5K Run & 3K Walk. All fitness levels welcome!",
+        "icon": "calendar-icon-r2r.png",
+        "icon_alt": "Reddy to Run logo"
+    },
+    {
+        "date": "22/10/2025",
+        "type": "scheduled_run",
+        "meet_time": "6:15 AM",
+        "start_time": "6:30 AM",
+        "title": "Morning 5K Run & 3K Walk",
+        "location": "Behind Seashore Cabaret at 160 The Esplanade, Petone, Lower Hutt.",
+        "description": "Stay active with our welcoming Morning 5K Run & 3K Walk. All fitness levels welcome!",
+        "icon": "calendar-icon-r2r.png",
+        "icon_alt": "Reddy to Run logo"
+    },
+    {
+        "date": "23/10/2025",
+        "type": "scheduled_run",
+        "meet_time": "6:00 PM",
+        "start_time": "6:15 PM",
+        "title": "Thursday Trot - 5K Run & 3K Walk",
+        "location": "Behind Seashore Cabaret at 160 The Esplanade, Petone, Lower Hutt.",
+        "description": "Stay active with our welcoming Thursday Trot 5K Run & 3K Walk. All fitness levels welcome!",
+        "icon": "calendar-icon-r2r.png",
+        "icon_alt": "Reddy to Run logo"
+    },
+    {
+        "date": "27/10/2025",
+        "type": "scheduled_run",
+        "meet_time": "6:15 AM",
+        "start_time": "6:30 AM",
+        "title": "Morning 5K Run & 3K Walk",
+        "location": "Behind Seashore Cabaret at 160 The Esplanade, Petone, Lower Hutt.",
+        "description": "Stay active with our welcoming Morning 5K Run & 3K Walk. All fitness levels welcome!",
+        "icon": "calendar-icon-r2r.png",
+        "icon_alt": "Reddy to Run logo"
+    },
+    {
+        "date": "29/10/2025",
+        "type": "scheduled_run",
+        "meet_time": "6:15 AM",
+        "start_time": "6:30 AM",
+        "title": "Morning 5K Run & 3K Walk",
+        "location": "Behind Seashore Cabaret at 160 The Esplanade, Petone, Lower Hutt.",
+        "description": "Stay active with our welcoming Morning 5K Run & 3K Walk. All fitness levels welcome!",
+        "icon": "calendar-icon-r2r.png",
+        "icon_alt": "Reddy to Run logo"
+    },
+    {
+        "date": "1/10/2025",
+        "type": "sponsor",
+        "title": "Muscle Nation",
+        "description": "Reddy to Run is thrilled to announce a long-term partnership with Muscle Nation! This exciting collaboration brings together two brands committed to community. Expect exclusive product samples and Muscle Nation goodies waiting for you at the finish line. Plus, enjoy 15% off your next order with the code <b>REDDYTORUN</b>. Let\u2019s fuel every stride, together!",
+        "icon": "calendar-icon-muscle-nation.png",
+        "icon_alt": "Sponsor: MuscleNation logo"
+    },
+    {
+        "date": "1/10/2025",
+        "type": "sponsor",
+        "title": "Seashore Cabaret",
+        "description": "Our regular morning runs are proudly sponsored by Seashore Cabaret \u2014 our start and finish point. Enjoy 10% off the menu until 9am after each run, and don\u2019t miss the chance to grab free coffee vouchers, available at every event.",
+        "icon": "calendar-icon-seashore-cabaret.png",
+        "icon_alt": "Sponsor: Seashore Cabaret logo"
+    },
+    {
+        "date": "6/10/2025",
+        "type": "sponsor",
+        "title": "Seashore Cabaret",
+        "description": "Our regular morning runs are proudly sponsored by Seashore Cabaret \u2014 our start and finish point. Enjoy 10% off the menu until 9am after each run, and don\u2019t miss the chance to grab free coffee vouchers, available at every event.",
+        "icon": "calendar-icon-seashore-cabaret.png",
+        "icon_alt": "Sponsor: Seashore Cabaret logo"
+    },
+    {
+        "date": "6/10/2025",
+        "type": "sponsor",
+        "title": "Treasured Morning",
+        "description": "We\u2019re so excited to have Treasured Morning on board as a monthly sponsor, serving up their handcrafted granola to our Reddy to Run community. Made in small batches with wholesome, natural ingredients, their blends are designed to fuel your movement, support your recovery, and bring a little joy to your post-run moment.",
+        "icon": "calendar-icon-treasured-morning.png",
+        "icon_alt": "Sponsor: Treasured Morning logo"
+    },
+    {
+        "date": "8/10/2025",
+        "type": "sponsor",
+        "title": "Seashore Cabaret",
+        "description": "Our regular morning runs are proudly sponsored by Seashore Cabaret \u2014 our start and finish point. Enjoy 10% off the menu until 9am after each run, and don\u2019t miss the chance to grab free coffee vouchers, available at every event.",
+        "icon": "calendar-icon-seashore-cabaret.png",
+        "icon_alt": "Sponsor: Seashore Cabaret logo"
+    },
+    {
+        "date": "8/10/2025",
+        "type": "sponsor",
+        "title": "AKO Nutritional Studio",
+        "description": "AKO Nutritional Studio returns to fuel our R2R community! Their philosophy is rooted in empowering wellbeing through education and whole food nutrition. Expect samples and practical tips for everyday health.",
+        "icon": "calendar-icon-ako-nutrition.png",
+        "icon_alt": "Sponsor: AKO Nutritional Studio logo"
+    },
+    {
+        "date": "9/10/2025",
+        "type": "sponsor",
+        "title": "Dirty Burger",
+        "description": "Wrap up the evening with 20% off at Dirty Burger, and enjoy extra motivation with thick shake voucher giveaways at every Dirty Burger run.",
+        "icon": "calendar-icon-dirty-burger.png",
+        "icon_alt": "Sponsor: Dirty Burger logo"
+    },
+    {
+        "date": "10/10/2025",
+        "type": "sponsor",
+        "title": "World Mental Health Day",
+        "description": "We\u2019re teaming up with @earlybirdruncrewnz and The Big Morning Run for a special Reddy to Run session. Post-run massages by Body of Work, coffee and gratitude circle upstairs, and prizes to be won!<br><br>Let’s lace up, move together, and support mental wellbeing 💛<br><br>If you're able, donate just $4 (less than your morning coffee) to help the Mental Health Foundation reach one more New Zealander in need 👉 More info <a href=\"https://www.bigmorningrun.com\">here</a>",
+        "icon": "calendar-icon-big-morning-run.png",
+        "icon_alt": "Event: World Mental Health Day"
+    },
+    {
+        "date": "10/10/2025",
+        "type": "sponsor",
+        "title": "Seashore Cabaret",
+        "description": "Our regular morning runs are proudly sponsored by Seashore Cabaret \u2014 our start and finish point. Enjoy 10% off the menu until 9am after each run, and don\u2019t miss the chance to grab free coffee vouchers, available at every event.",
+        "icon": "calendar-icon-seashore-cabaret.png",
+        "icon_alt": "Sponsor: Seashore Cabaret logo"
+    },
+    {
+        "date": "13/10/2025",
+        "type": "sponsor",
+        "title": "Seashore Cabaret",
+        "description": "Our regular morning runs are proudly sponsored by Seashore Cabaret \u2014 our start and finish point. Enjoy 10% off the menu until 9am after each run, and don\u2019t miss the chance to grab free coffee vouchers, available at every event.",
+        "icon": "calendar-icon-seashore-cabaret.png",
+        "icon_alt": "Sponsor: Seashore Cabaret logo"
+    },
+    {
+        "date": "13/10/2025",
+        "type": "sponsor",
+        "title": "Shoe Clinic",
+        "description": "Join us every second week for our Shoe Clinic\u2013sponsored runs, featuring awesome giveaways at each event \u2014 from backpacks and T-shirts to drink bottles and store vouchers.",
+        "icon": "calendar-icon-shoe-clinic.png",
+        "icon_alt": "Sponsor: Shoe Clinic logo"
+    },
+    {
+        "date": "15/10/2025",
+        "type": "sponsor",
+        "title": "LSKD",
+        "description": "💗 On Wednesday 15th We Wear PINK<br>Supporting the <a href=\"https://www.instagram.com/pinkribbonnz/\">@pinkribbonnz</a>, proudly backed by LSKD + Seashore. Rock your PINK R2R tee or any pink gear – let’s paint Petone pink!<br><br>To donate to the Breast Cancer Foundation - click here to be directed to our Reddy to Fundraise for Breast Cancer: <a href=\"https://fundraise.bcf.org.nz/fundraisers/jennareddy/reddy-to-fundraise-for-breast-cancer\">here.</a>",
+        "icon": "calendar-icon-lskd.png",
+        "icon_alt": "Sponsor: LSKD logo"
+    },
+    {
+        "date": "15/10/2025",
+        "type": "sponsor",
+        "title": "Seashore Cabaret",
+        "description": "💗 On Wednesday 15th We Wear PINK<br>Supporting the <a href=\"https://www.instagram.com/pinkribbonnz/\">@pinkribbonnz</a>, proudly backed by LSKD + Seashore. Rock your PINK R2R tee or any pink gear – let’s paint Petone pink!<br><br>To donate to the Breast Cancer Foundation - click here to be directed to our Reddy to Fundraise for Breast Cancer: <a href=\"https://fundraise.bcf.org.nz/fundraisers/jennareddy/reddy-to-fundraise-for-breast-cancer\">here.</a>",
+        "icon": "calendar-icon-seashore-cabaret.png",
+        "icon_alt": "Sponsor: Seashore Cabaret logo"
+    },
+    {
+        "date": "15/10/2025",
+        "type": "sponsor",
+        "title": "Pink Ribbon Event",
+        "description": "💗 On Wednesday 15th We Wear PINK<br>Supporting the <a href=\"https://www.instagram.com/pinkribbonnz/\">@pinkribbonnz</a>, proudly backed by LSKD + Seashore. Rock your PINK R2R tee or any pink gear – let’s paint Petone pink!<br><br>To donate to the Breast Cancer Foundation - click here to be directed to our Reddy to Fundraise for Breast Cancer: <a href=\"https://fundraise.bcf.org.nz/fundraisers/jennareddy/reddy-to-fundraise-for-breast-cancer\">here.</a>",
+        "icon": "calendar-icon-pink-ribbon.png",
+        "icon_alt": "Event: Pink Ribbon Day"
+    },
+    {
+        "date": "17/10/2025",
+        "type": "sponsor",
+        "title": "In Motion Studios",
+        "start_time": "Session 1 @ 6:30 PM, Session 2 @ 7:30 PM",
+        "location": "In Motion Studio, 152 High Street, Lower Hutt.",
+        "description": "Reformer Pilates with <a href=\"https://www.instagram.com/inmotionstudio.nz/\">@inmotionstudio.nz</a>. We’re switching things up – 10 spots at each session only! DM us on Instagram to lock in your place to try a Private Reformer Pilates session with your R2R community.",
+        "icon": "calendar-icon-inmotion-studio.png",
+        "icon_alt": "Sponsor: In Motion Studios"
+    },
+    {
+        "date": "20/10/2025",
+        "type": "sponsor",
+        "title": "Seashore Cabaret",
+        "description": "Our regular morning runs are proudly sponsored by Seashore Cabaret \u2014 our start and finish point. Enjoy 10% off the menu until 9am after each run, and don\u2019t miss the chance to grab free coffee vouchers, available at every event.",
+        "icon": "calendar-icon-seashore-cabaret.png",
+        "icon_alt": "Sponsor: Seashore Cabaret logo"
+    },
+    {
+        "date": "22/10/2025",
+        "type": "sponsor",
+        "title": "Seashore Cabaret",
+        "description": "Our regular morning runs are proudly sponsored by Seashore Cabaret \u2014 our start and finish point. Enjoy 10% off the menu until 9am after each run, and don\u2019t miss the chance to grab free coffee vouchers, available at every event.",
+        "icon": "calendar-icon-seashore-cabaret.png",
+        "icon_alt": "Sponsor: Seashore Cabaret logo"
+    },
+    {
+        "date": "22/10/2025",
+        "type": "sponsor",
+        "title": "Elyte Electrolytes",
+        "description": "We\u2019re excited to welcome @elyte.hydration to the R2R family! They\u2019ll be helping fuel our community runs and keeping us moving strong. Look out for <b>electrolyte samples waiting for you at the finish line</b>.",
+        "icon": "calendar-icon-elyte.png",
+        "icon_alt": "Sponsor: Elyte Electrolytes logo"
+    },
+    {
+        "date": "23/10/2025",
+        "type": "sponsor",
+        "title": "Dirty Burger",
+        "description": "Wrap up the evening with 20% off at Dirty Burger, and enjoy extra motivation with thick shake voucher giveaways at every Dirty Burger run.",
+        "icon": "calendar-icon-dirty-burger.png",
+        "icon_alt": "Sponsor: Dirty Burger logo"
+    },
+    {
+        "date": "25/10/2025",
+        "type": "sponsor",
+        "title": "Abandoned Brewery",
+        "description": "Social Saturdays at Abandoned Brewery \u2014 because run club isn\u2019t just about staying active, it\u2019s about meeting new people and building a vibrant community. Enjoy 10% off and grab exclusive vouchers at every run.",
+        "icon": "calendar-icon-abandoned-brewery.png",
+        "icon_alt": "Sponsor: Abandoned Brewery logo"
+    },
+    {
+        "date": "27/10/2025",
+        "type": "sponsor",
+        "title": "Shoe Clinic",
+        "description": "Join us every second week for our Shoe Clinic\u2013sponsored runs, featuring awesome giveaways at each event \u2014 from backpacks and T-shirts to drink bottles and store vouchers.",
+        "icon": "calendar-icon-shoe-clinic.png",
+        "icon_alt": "Sponsor: Shoe Clinic logo"
+    },
+    {
+        "date": "27/10/2025",
+        "type": "sponsor",
+        "title": "Seashore Cabaret",
+        "description": "Our regular morning runs are proudly sponsored by Seashore Cabaret \u2014 our start and finish point. Enjoy 10% off the menu until 9am after each run, and don\u2019t miss the chance to grab free coffee vouchers, available at every event.",
+        "icon": "calendar-icon-seashore-cabaret.png",
+        "icon_alt": "Sponsor: Seashore Cabaret logo"
+    },
+    {
+        "date": "29/10/2025",
+        "type": "sponsor",
+        "title": "HealthLab",
+        "description": "Fuel your run with samples and recovery snacks from HealthLab \u2014 made from plant-based, nutritious ingredients to keep you going.",
+        "icon": "calendar-icon-health-lab.png",
+        "icon_alt": "Sponsor: HealthLab logo"
+    },
+    {
+        "date": "29/10/2025",
+        "type": "sponsor",
+        "title": "Seashore Cabaret",
+        "description": "Our regular morning runs are proudly sponsored by Seashore Cabaret \u2014 our start and finish point. Enjoy 10% off the menu until 9am after each run, and don\u2019t miss the chance to grab free coffee vouchers, available at every event.",
+        "icon": "calendar-icon-seashore-cabaret.png",
+        "icon_alt": "Sponsor: Seashore Cabaret logo"
+    },
+        {
+        "date": "2/2/2026",
+        "type": "scheduled_run",
+        "meet_time": "6:15 AM",
+        "start_time": "6:30 AM",
+        "title": "Morning 5K Run & 3K Walk",
+        "location": "Behind Seashore Cabaret at 160 The Esplanade, Petone, Lower Hutt.",
+        "description": "Stay active with our welcoming Morning 5K Run & 3K Walk. All fitness levels welcome!",
+        "icon": "calendar-icon-r2r.png",
+        "icon_alt": "Reddy to Run logo"
+    }
+    
+]
